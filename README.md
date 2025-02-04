@@ -9,3 +9,4 @@
 ### [2월 첫째 주, 3주차] 
 
 25.02.03 (https://github.com/100-hours-a-week/kevin.lim-til/blob/main/Feb/2025-02-03.md)
+25.02.04 (https://github.com/100-hours-a-week/kevin.lim-til/blob/main/Feb/2025-02-04.md)
