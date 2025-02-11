@@ -15,3 +15,9 @@
 25.02.05 (https://github.com/100-hours-a-week/kevin.lim-til/blob/main/Feb/2025-02-05.md)
 
 25.02.06 (https://github.com/100-hours-a-week/kevin.lim-til/blob/main/Feb/2025-02-06.md)
+
+### [2월 둘째 주, 4주차] 
+
+25.02.10 (https://github.com/100-hours-a-week/kevin.lim-til/blob/main/Feb/2025-02-10.md)
+
+25.02.11 (https://github.com/100-hours-a-week/kevin.lim-til/blob/main/Feb/2025-02-11.md)
